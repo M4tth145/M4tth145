@@ -1,4 +1,4 @@
-# h1 Hallo Welt
+# Hallo Welt
 **Über mich**
 - Schüler an der Otto-Brenner-Schule bbs-me
 - zweites Jahr der Ausbildung für die IT
