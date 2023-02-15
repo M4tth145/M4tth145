@@ -1,16 +1,20 @@
-### Hi there 👋
+# h1 Hallo Welt
+**Über mich**
+- Schüler an der Otto-Brenner-Schule bbs-me
+- zweites Jahr der Ausbildung für die IT
 
-<!--
-**M4tth145/M4tth145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Skills and practices**
+- C++ programming objekt oriented.
+- Python programming
+- Advanced Excel/Calc skills
+- LaTeX formatting
+- Linux administration
+- Administation of postgreSQL, mySQL and Maria-DB Databases
+- Network knowlage in ipv3 and ipv6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What do I learn now**
+- Networking in ipv4 and ipv6
+- Firewalls
+- Java Programming
+- Web-develobment (HTML, CSS, PHP)
