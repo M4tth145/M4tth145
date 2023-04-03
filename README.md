@@ -10,7 +10,7 @@
 - Advanced Excel/Calc skills
 - LaTeX formatting
 - Linux administration
-- - Debian, Arch and OpenSUSE distributions
+  - Debian, Arch and OpenSUSE distributions
 - Administation of postgreSQL, mySQL and Maria-DB Databases
 - Network basic knowlage in ipv4 and ipv6
 
