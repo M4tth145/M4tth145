@@ -11,7 +11,7 @@
 - LaTeX formatting
 - Linux administration
 - Administation of postgreSQL, mySQL and Maria-DB Databases
-- Network knowlage in ipv3 and ipv6
+- Network knowlage in ipv4 and ipv6
 
 **What do I learn now**
 - Networking in ipv4 and ipv6
