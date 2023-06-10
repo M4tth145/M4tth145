@@ -1,8 +1,4 @@
 # Hallo Welt
-**Über mich**
-- Schüler an der Otto-Brenner-Schule bbs-me
-- zweites Jahr der Ausbildung für die IT
-
 
 **Skills and practices**
 - C++ programming objekt oriented.
